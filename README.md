@@ -17,7 +17,10 @@ other executors may work but I can't test them all.
 
 tiktok : https://tiktok.com/@.xthxn
          https://tiktok.com/@nxthxndev
-instagram : instagram.com/nxth9n
+
+
+         
+instagram : https://instagram.com/nxth9n
 
 thank for using my script ! 
 
