@@ -1,6 +1,6 @@
 Script :
--AimLock/SilentAim ✅
--Blade Ball ✅
+-AimLock/SilentAim ✅ : loadstring(game:HttpGet("https://raw.githubusercontent.com/nxthxndev/NxDev/refs/heads/main/AimUniversal"))()
+-Blade Ball ✅ : loadstring(game:HttpGet("https://raw.githubusercontent.com/nxthxndev/NxDev/refs/heads/main/BladeBall"))()
 
 update every week ! 
 
