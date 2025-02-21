@@ -1,4 +1,6 @@
-Script : loadstring(game:HttpGet("https://raw.githubusercontent.com/nxthxndev/NxDev/refs/heads/main/BladeBall"))()
+Script :
+-AimLock/SilentAim ✅
+-Blade Ball ✅
 
 update every week ! 
 
